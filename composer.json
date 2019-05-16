@@ -1,0 +1,54 @@
+{
+    "name": "advancedhosters/yii-asset-advancedhosting",
+    "type": "yii2-extension",
+    "description": "AdvancedHosting asset files: images, configs and more",
+    "keywords": [
+        "advancedhosting",
+        "asset",
+        "extension",
+        "yii"
+    ],
+    "homepage": "https://github.com/advancedhosters/yii-asset-advancedhosting",
+    "license": "proprietary",
+    "support": {
+        "email": "support@advancedhosters.com",
+        "source": "https://github.com/advancedhosters/yii-asset-advancedhosting",
+        "issues": "https://github.com/advancedhosters/yii-asset-advancedhosting/issues",
+        "wiki": "https://github.com/advancedhosters/yii-asset-advancedhosting/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        },
+        {
+            "name": "Dmitry Naumenko",
+            "email": "d.naumenko.a@gmail.com",
+            "homepage": "http://silverfire.me/"
+        }
+    ],
+    "require-dev": {
+        "hiqdev/hidev": "dev-master",
+        "hiqdev/hidev-php": "dev-master",
+        "hiqdev/hidev-readme": "dev-master",
+        "advancedhosters/hidev-advancedhosters": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "advancedhosters\\assets\\advancedhosting\\": "src"
+        }
+    },
+    "extra": {
+        "config-plugin": {
+            "params": "config/params.php"
+        }
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}

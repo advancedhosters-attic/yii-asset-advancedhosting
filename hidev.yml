@@ -1,0 +1,15 @@
+package:
+    type:           yii2-extension
+    name:           yii-asset-advancedhosting
+    title:          'AdvancedHosting asset files: images, configs and more'
+    headline:       AdvancedHosting assets
+    keywords:       advancedhosting, asset, extension, yii
+    description:    |
+        [AdvancedHosting](https://advancedhosting.com) is a hosting company.
+
+        This package provides assets shareable between different AdvancedHosting projects:
+
+        - logos and css bundled with Yii asset bundle
+        - config settings
+        - translations
+
