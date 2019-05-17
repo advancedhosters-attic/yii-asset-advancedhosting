@@ -11,7 +11,7 @@
 $supportEmail = 'support@advancedhosters.com';
 
 return [
-    'favicon.ico'       => '@advancedhosters/assets/advancedhosters/assets/images/favicon.ico',
+    'favicon.ico'       => '@advancedhosters/assets/advancedhosting/assets/images/favicon.ico',
 
     'organization.name' => 'AdvancedHosting',
     'organization.url'  => 'https://advancedhosting.com/',

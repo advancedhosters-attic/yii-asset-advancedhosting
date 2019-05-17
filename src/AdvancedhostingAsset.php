@@ -8,13 +8,13 @@
  * @copyright Copyright (c) 2019, AdvancedHosters (https://advancedhosters.com/)
  */
 
-namespace advancedhosters\assets\advancedhosters;
+namespace advancedhosters\assets\advancedhosting;
 
-class AdvancedhostersAsset extends \yii\web\AssetBundle
+class AdvancedhostingAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@advancedhosters/assets/advancedhosters/assets';
+    public $sourcePath = '@advancedhosters/assets/advancedhosting/assets';
 
     public $css = [
-        'css/advancedhosters.css',
+        'css/advancedhosting.css',
     ];
 }
