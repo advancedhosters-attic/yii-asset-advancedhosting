@@ -1,4 +1,13 @@
 .logo-lg, .logo-mini {
-    background-image:  url(../images/logo.png);
+    background-image:  url(../images/logo_white_login.svg);
     background-repeat: no-repeat;
+    background-size: 100px;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #46587a !important;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #3a465e !important;
 }
