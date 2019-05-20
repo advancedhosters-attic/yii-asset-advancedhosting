@@ -37,4 +37,6 @@ return [
     'logo.imageOptions'         => ['style' => 'width: 140px;filter: brightness(25%);'],
     'logo.smallImage'           => '@advancedhosters/assets/advancedhosting/assets/images/logo_white_login.svg',
     'logo.smallImageOptions'    => ['style' => 'width: 50px'],
+
+    'module.server.orderIsAllowed' => false,
 ];
