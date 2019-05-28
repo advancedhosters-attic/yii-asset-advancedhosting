@@ -35,4 +35,5 @@ return [
 
     'module.server.order.allowed'               => false,
     'module.server.power.management.allowed'    => false,
+    'module.finance.bill.detalization.allowed'  => false,
 ];
