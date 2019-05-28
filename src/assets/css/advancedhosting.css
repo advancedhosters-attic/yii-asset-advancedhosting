@@ -9,5 +9,9 @@
 }
 
 .skin-blue .main-header .logo {
+    background-color: #46587a !important;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
     background-color: #3a465e !important;
 }
