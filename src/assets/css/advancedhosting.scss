@@ -1,15 +1,19 @@
+$top-header-color: #46587a;
+
 .logo-lg, .logo-mini {
   background-image: url(../images/logo_white_login.svg);
   background-repeat: no-repeat;
-  background-size: 100px; }
+  background-size: 100px;
+}
 
 .skin-blue .main-header .navbar {
-  background-color: #46587a !important; }
+  background-color: $top-header-color !important;
+}
 
 .skin-blue .main-header .logo {
-  background-color: #46587a !important; }
+  background-color: $top-header-color !important;
+}
 
 .skin-blue .main-header .navbar .sidebar-toggle:hover {
-  background-color: #3a465e !important; }
-
-/*# sourceMappingURL=advancedhosting.css.map */
+  background-color: #3a465e !important;
+}

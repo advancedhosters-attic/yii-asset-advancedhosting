@@ -10,7 +10,9 @@
 
 namespace advancedhosters\assets\advancedhosting;
 
-class AdvancedhostingAsset extends \yii\web\AssetBundle
+use yii\web\AssetBundle;
+
+class AdvancedhostingAsset extends AssetBundle
 {
     public $sourcePath = '@advancedhosters/assets/advancedhosting/assets';
 

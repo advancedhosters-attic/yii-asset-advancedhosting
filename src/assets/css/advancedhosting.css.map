@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,oBAAqB;EACnB,gBAAgB,EAAE,mCAAmC;EACrD,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;;AAGxB,+BAAgC;EAC9B,gBAAgB,EAAE,kBAA4B;;AAGhD,6BAA8B;EAC5B,gBAAgB,EAAE,kBAA4B;;AAGhD,qDAAsD;EACpD,gBAAgB,EAAE,kBAAkB",
+"sources": ["advancedhosting.scss"],
+"names": [],
+"file": "advancedhosting.css"
+}
