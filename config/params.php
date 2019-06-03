@@ -31,6 +31,8 @@ return [
         'facebook'  => 'https://www.facebook.com/AdvancedHosting/',
     ],
 
+    'user.checkEmailConfirmed' => false,
+
     'legals.privacyPolicyUrl' => 'https://advancedhosting.com/en/documents/privacyPolicy',
 
     'module.server.order.allowed'               => false,
