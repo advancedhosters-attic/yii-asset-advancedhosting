@@ -43,6 +43,7 @@ return [
         'grafana'                       => 1,
         'hipanel.advancedhosting.com'   => 1,
         'hisite.advancedhosting.com'    => 1,
-        'vcp.advancedhosting.com'       => 1,
+        'vcp.advancedhosting.com'       => 'Irdal~ObNiv2',
+        'websa.advancedhosting.com'     => 'webOj,obcyk8',
     ],
 ];
