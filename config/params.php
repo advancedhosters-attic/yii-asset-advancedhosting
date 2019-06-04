@@ -40,10 +40,13 @@ return [
     'module.finance.bill.detalization.allowed'  => false,
 
     'hiam.authorizedClients' => [
-        'grafana'                       => 1,
-        'hipanel.advancedhosting.com'   => 1,
-        'hisite.advancedhosting.com'    => 1,
-        'vcp.advancedhosting.com'       => 'Irdal~ObNiv2',
-        'websa.advancedhosting.com'     => 'webOj,obcyk8',
+        'grafana'                           => 'HecAt1ojNad_',
+        'hipanel.advancedhosting.com'       => 'Whic_OjEcuk0',
+        'hisite.advancedhosting.com'        => 'flevyog+Lis4',
+        'vcp.advancedhosting.com'           => 'Irdal~ObNiv2',
+
+        'websa.advancedhosting.com'         => 'webOj,obcyk8',
+        'stage-websa.advancedhosting.com'   => 'webOj,obcyk8',
+        'dev-websa.advancedhosting.com'     => 'webOj,obcyk8',
     ],
 ];
