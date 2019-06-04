@@ -38,4 +38,11 @@ return [
     'module.server.order.allowed'               => false,
     'module.server.power.management.allowed'    => false,
     'module.finance.bill.detalization.allowed'  => false,
+
+    'hiam.authorizedClients' => [
+        'grafana'                       => 1,
+        'hipanel.advancedhosting.com'   => 1,
+        'hisite.advancedhosting.com'    => 1,
+        'vcp.advancedhosting.com'       => 1,
+    ],
 ];
