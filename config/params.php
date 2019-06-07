@@ -39,7 +39,9 @@ return [
     'module.server.power.management.allowed'    => false,
     'module.finance.bill.detalization.allowed'  => false,
 
-    'hiam.authorizedClients' => [
+    'hiam.authorizedClients' => array_filter([
+        'demo'                              => $_ENV['ENV'] !== 'PROD' ? '.drad4Shnihi' : null,
+
         'grafana'                           => 'HecAt1ojNad_',
         'hipanel.advancedhosting.com'       => 'Whic_OjEcuk0',
         'hisite.advancedhosting.com'        => 'flevyog+Lis4',
@@ -48,5 +50,5 @@ return [
         'websa.advancedhosting.com'         => 'webOj,obcyk8',
         'stage-websa.advancedhosting.com'   => 'webOj,obcyk8',
         'dev-websa.advancedhosting.com'     => 'webOj,obcyk8',
-    ],
+    ]),
 ];
