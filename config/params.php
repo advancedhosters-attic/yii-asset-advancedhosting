@@ -40,8 +40,6 @@ return [
     'module.finance.bill.detalization.allowed'  => false,
 
     'hiam.authorizedClients' => array_filter([
-        'demo'                              => $_ENV['ENV'] !== 'PROD' ? '.drad4Shnihi' : null,
-
         'grafana'                           => 'HecAt1ojNad_',
         'hipanel.advancedhosting.com'       => 'Whic_OjEcuk0',
         'hisite.advancedhosting.com'        => 'flevyog+Lis4',
