@@ -22,6 +22,7 @@ return [
     'salesEmail'             => 'contact.sales@advancedhosters.com',
     'ticketGlobalNotifyMail' => 'ahnames-tickets@advancedhosters.com',
 
+    'billing.localObjects'   => 'serverConfig',
 
     'copyright.year'    => 2002,
 
