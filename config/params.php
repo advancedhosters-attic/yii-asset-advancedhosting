@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2019, AdvancedHosters (https://advancedhosters.com/)
  */
 
-$supportEmail = 'support@advancedhosters.com';
+$supportEmail = 'support@advancedhosting.com';
 
 return [
     'favicon.ico'       => '@advancedhosters/assets/advancedhosting/assets/images/favicon.ico',
@@ -18,9 +18,9 @@ return [
 
     'supportEmail'           => $supportEmail,
     'adminEmail'             => $supportEmail,
-    'abuseEmail'             => 'abuse@advancedhosters.com',
-    'salesEmail'             => 'contact.sales@advancedhosters.com',
-    'ticketGlobalNotifyMail' => 'ahnames-tickets@advancedhosters.com',
+    'abuseEmail'             => 'abuse@advancedhosting.com',
+    'salesEmail'             => 'contact.sales@advancedhosting.com',
+    'ticketGlobalNotifyMail' => 'ahnames-tickets@advancedhosting.com',
 
     'billing.localObjects'   => 'serverConfig',
 
@@ -28,7 +28,7 @@ return [
 
     'socialLinks.links' => [
         'email'     => 'mailto:' . $supportEmail,
-        'twitter'   => 'https://twitter.com/advancedhosters',
+        'twitter'   => 'https://twitter.com/advancedhosting',
         'facebook'  => 'https://www.facebook.com/AdvancedHosting/',
     ],
 
