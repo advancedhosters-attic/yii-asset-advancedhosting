@@ -50,4 +50,8 @@ return [
         'stage-websa.advancedhosting.com'   => 'webOj,obcyk8',
         'dev-websa.advancedhosting.com'     => 'webOj,obcyk8',
     ]),
+
+    'language.languages' => new \yii\helpers\ReplaceArrayValue([
+        'en' => 'English',
+    ]),
 ];
