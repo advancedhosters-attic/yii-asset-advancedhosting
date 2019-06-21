@@ -35,6 +35,7 @@ return [
     'user.checkEmailConfirmed' => false,
 
     'legals.privacyPolicyUrl' => 'https://advancedhosting.com/en/documents/privacyPolicy',
+    'terms_url' => 'https://advancedhosting.com/en/documents/termsAndConditions',
 
     'module.server.order.allowed'               => false,
     'module.server.power.management.allowed'    => false,
