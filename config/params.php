@@ -32,7 +32,8 @@ return [
         'facebook'  => 'https://www.facebook.com/AdvancedHosting/',
     ],
 
-    'user.checkEmailConfirmed' => false,
+    'user.checkEmailConfirmed'      => false,
+    'hiam.refresh_token.lifetime'   => 3600 * 24 * 365,
 
     'legals.privacyPolicyUrl' => 'https://advancedhosting.com/en/documents/privacyPolicy',
     'terms_url' => 'https://advancedhosting.com/en/documents/termsAndConditions',
