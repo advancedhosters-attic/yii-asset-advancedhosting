@@ -39,6 +39,7 @@ return [
     'terms_url' => 'https://advancedhosting.com/en/documents/termsAndConditions',
 
     'module.server.order.allowed'               => false,
+    'module.server.renew.allowed'               => false,
     'module.server.power.management.allowed'    => false,
     'module.finance.bill.detalization.allowed'  => false,
 
