@@ -32,6 +32,7 @@ return [
         'facebook'  => 'https://www.facebook.com/AdvancedHosting/',
     ],
 
+    'module.client.twoFactorAuth'   => false,
     'user.checkEmailConfirmed'      => false,
     'hiam.refresh_token.lifetime'   => 3600 * 24 * 365,
 
