@@ -44,6 +44,9 @@ return [
     'module.server.power.management.allowed'    => false,
     'module.finance.bill.detalization.allowed'  => false,
 
+    'terms.url'         => 'https://advancedhosting.com/en/documents/termsAndConditions',
+    'privacy.policy.url'=> 'https://advancedhosting.com/en/documents/privacyPolicy',
+
     'hiam.authorizedClients' => array_filter([
         'grafana'                           => 'HecAt1ojNad_',
         'hipanel.advancedhosting.com'       => 'Whic_OjEcuk0',
