@@ -36,8 +36,8 @@ return [
     'user.checkEmailConfirmed'      => false,
     'hiam.refresh_token.lifetime'   => 3600 * 24 * 365,
 
-    'legals.privacyPolicyUrl' => 'https://advancedhosting.com/en/documents/privacyPolicy',
-    'terms_url' => 'https://advancedhosting.com/en/documents/termsAndConditions',
+    'privacy.policy.url'            => 'https://advancedhosting.com/en/documents/privacyPolicy',
+    'terms.url'                     => 'https://advancedhosting.com/en/documents/termsAndConditions',
 
     'module.server.order.allowed'               => false,
     'module.server.renew.allowed'               => false,
