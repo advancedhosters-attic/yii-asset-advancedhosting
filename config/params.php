@@ -24,6 +24,8 @@ return [
 
     'billing.localObjects'   => 'serverConfig',
 
+    'hotjar.id'         => '1453476',
+
     'copyright.year'    => 2002,
 
     'socialLinks.links' => [
