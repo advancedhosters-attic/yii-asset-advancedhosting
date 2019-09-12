@@ -25,6 +25,7 @@ return [
     'billing.localObjects'   => 'serverConfig',
 
     'hotjar.id'         => '1453476',
+    'pincode.forced'    => false,
 
     'copyright.year'    => 2002,
 
