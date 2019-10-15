@@ -55,6 +55,7 @@ return [
         'websa.advancedhosting.com'         => 'webOj,obcyk8',
         'stage-websa.advancedhosting.com'   => 'webOj,obcyk8',
         'dev-websa.advancedhosting.com'     => 'webOj,obcyk8',
+        'dev-websa-2.advancedhosting.com'   => 'gPE2w!MrH',
     ]),
 
     'language.languages' => new \yii\helpers\ReplaceArrayValue([
